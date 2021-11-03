@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Android App Projects
 - 🤔 I’m looking for help with API (Development)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=roomiers&count_private=false&show_icons=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=roomiers&count_private=true&show_icons=true">
