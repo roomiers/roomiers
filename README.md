@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=roomiers&count_private=true&show_icons=true&theme=light" width="400"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roomiers" width="400">
+<img align="right" src="[https://github-readme-streak-stats.herokuapp.com/?user=roomiers](https://github-readme-stats.vercel.app/api/top-langs/?username=roomiers)" width="400">
