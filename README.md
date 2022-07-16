@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with API (Development)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roomiers&layout=compact)](https://github.com/roomiers/github-readme-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=roomiers&count_private=true&show_icons=true&theme=light" width="400"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=roomiers&count_private=false&show_icons=true&theme=light" width="400"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roomiers" width="400">
